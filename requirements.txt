@@ -4,6 +4,7 @@ onnx
 onnx2tf>=1.15.4
 sng4onnx>=1.0.1
 onnxsim>=0.4.33
-onnx_graphsurgeon>=0.3.26
+nvidia-pyindex
+onnx-graphsurgeon
 tflite_support
 onnxruntime
